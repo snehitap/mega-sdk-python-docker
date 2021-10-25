@@ -1,3 +1,4 @@
+# Main
 aiohttp
 anytree
 aria2p
@@ -10,9 +11,6 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-hachoir
-hurry.filesize
-html-telegraph-poster
 js2py
 git+https://github.com/jusidama18/lk21
 lxml
@@ -23,13 +21,10 @@ py-kraken
 pybase64
 pyrogram
 pyshorteners
-python-dateutil
 python-dotenv
 python-magic
 python-telegram-bot
-pytz
 qbittorrent-api
-quoters
 requests
 speedtest-cli
 telegraph
@@ -39,3 +34,13 @@ torrentool==1.1.0
 urllib3
 youtube_dl
 yt-dlp
+
+# My Stuff
+html-telegraph-poster
+pytz
+python-dateutil
+quoters
+
+# Other
+hachoir
+hurry.filesize
