@@ -19,6 +19,7 @@ lxml
 Pillow
 psutil
 psycopg2-binary
+py-kraken
 pybase64
 pyrogram
 pyshorteners
