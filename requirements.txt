@@ -34,10 +34,11 @@ urllib3
 youtube_dl
 
 # My Stuff
+emoji
 html-telegraph-poster
 py-kraken
-pytz
 python-dateutil
+pytz
 quotefancy
 quoters
 yt-dlp
