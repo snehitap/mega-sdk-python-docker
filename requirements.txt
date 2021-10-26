@@ -17,7 +17,6 @@ lxml
 Pillow
 psutil
 psycopg2-binary
-py-kraken
 pybase64
 pyrogram
 pyshorteners
@@ -33,14 +32,16 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 youtube_dl
-yt-dlp
 
 # My Stuff
 html-telegraph-poster
+py-kraken
 pytz
 python-dateutil
+quotefancy
 quoters
+yt-dlp
 
-# Other
+# Requested by Someone
 hachoir
 hurry.filesize
