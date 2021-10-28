@@ -31,17 +31,15 @@ tenacity
 TgCrypto
 torrentool==1.1.0
 urllib3
-youtube_dl
+yt-dlp
 
 # My Stuff
-emoji
 html-telegraph-poster
 py-kraken
 python-dateutil
 pytz
 quotefancy
 quoters
-yt-dlp
 
 # Requested by Someone
 hachoir
