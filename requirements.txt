@@ -40,7 +40,3 @@ python-dateutil
 pytz
 quotefancy
 quoters
-
-# Requested by Someone
-hachoir
-hurry.filesize
