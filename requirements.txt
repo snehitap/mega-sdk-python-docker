@@ -38,5 +38,4 @@ html-telegraph-poster
 py-kraken
 python-dateutil
 pytz
-quotefancy
 quoters
