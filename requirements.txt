@@ -35,7 +35,6 @@ yt-dlp
 
 # My Stuff
 html-telegraph-poster
-httpx[http2]
 py-kraken
 python-dateutil
 pytz
