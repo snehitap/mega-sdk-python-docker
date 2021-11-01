@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:21.10
 
 ENV DEBIAN_FRONTEND="noninteractive"
 
@@ -8,7 +8,7 @@ RUN apt-get -y update && apt-get -y upgrade && \
         apt-get install -y python3 python3-pip python3-lxml aria2 \
         qbittorrent-nox tzdata p7zip-full p7zip-rar xz-utils wget curl pv jq \
         ffmpeg locales unzip neofetch mediainfo git make g++ gcc automake \
-        autoconf libtool libcurl4-openssl-dev qt5-default \
+        autoconf libtool libcurl4-openssl-dev qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools \
         libsodium-dev libssl-dev libcrypto++-dev libc-ares-dev \
         libsqlite3-dev libfreeimage-dev swig libboost-all-dev \
         libpthread-stubs0-dev zlib1g-dev
